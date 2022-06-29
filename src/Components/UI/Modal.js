@@ -1,6 +1,13 @@
 import React from 'react';
+import classes from './Modal.module.css'
 
-const Modal = () => {
+const Backdrop = props =>{};
+
+
+const ModalOverlay = props =>{} 
+
+
+const Modal = (props) => {
     return (
         <div>
             
