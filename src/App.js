@@ -34,3 +34,4 @@ export default App;
 //tonight target for finishing this project 
 //next run to the next  module 12 and go faster than other day as well 
 ///after this run to the next module and if facing any problem check and solve from youtube
+//every day normal contribution will more than 6<contribution 
