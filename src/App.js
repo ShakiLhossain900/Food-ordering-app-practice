@@ -32,4 +32,4 @@ export default App;
 //value card y jacce na
 //upto video 11 is clear     
 //tonight target for finishing this project 
-//next run to the next project as well 
+//next run to the next  module 12 and go faster than other day as well 
